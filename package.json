@@ -1,5 +1,5 @@
 {
-  "name": "untergrund-package-template",
+  "name": "@ludwigschubi/shex-solid-profile",
   "version": "0.0.1",
   "description": "A template for a schema package",
   "main": "lib/index.js",
